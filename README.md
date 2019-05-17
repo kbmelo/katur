@@ -18,10 +18,6 @@ To run the project for the **first** time you must follow this steps:
 
 Clone the GitHub repository
 
-```
-git clone https://github.com/CITi-UFPE/renata-onepage.git
-```
-
 Enter the project folder
 
 ```
