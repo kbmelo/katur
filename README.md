@@ -1,8 +1,4 @@
 # Katur
-## Accounts
-+ Heroku (**login:** heroku@citi.org.br **password:** trocaocartao_19)
-+ Firebase (add here)
-+ RegistroBR (add here)(**login:** add here **password:** add here)
 
 ## Getting Started
 
