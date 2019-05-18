@@ -5,6 +5,7 @@ import phoneImg from './phone.svg';
 import placeholderImg from './placeholder.svg';
 import smartphoneImg from './smartphone.svg';
 import facebookImg from './facebook.svg';
+import instagramImg from './instagram.svg';
 
 class Footer extends Component {
   render() { 
@@ -22,6 +23,9 @@ class Footer extends Component {
           </a>
           <a href="https://www.facebook.com/Katurturismo/" target="_blank" className="footer-item">
             <img className="footer-icon" src={ facebookImg } alt="facebook" /> <p>/Katurturismo</p>
+          </a>
+          <a href="https://www.instagram.com/katur_turismo/" target="_blank" className="footer-item">
+            <img className="footer-icon" src={ instagramImg } alt="instagram" /> <p>@katur_turismo</p>
           </a>
         </div>
         <div className="footer-address-container">
