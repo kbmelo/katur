@@ -1,0 +1,23 @@
+.servicos {
+  padding-bottom: 50px;
+}
+
+.servicos-title {
+  font-size: 2rem;
+  color: #0A0053;
+  margin-bottom: 5px;
+}
+
+.servicos-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.line {
+  height: 3px;
+  background-color: #0A0053;
+  width: 55%;
+  margin-bottom: 50px;
+}

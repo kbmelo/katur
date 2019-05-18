@@ -18,12 +18,6 @@ app.use((req, res, next) => {
     next();
 });
 
-// parse application/x-www-form-urlencoded
-app.use(bodyParser.urlencoded({ extended: false }));
-
-// parse application/json
-app.use(bodyParser.json());
-
 // serving static files
 app.use('/static', express.static(path.join(__dirname, '../client/build/static')));
 app.use('/js', express.static(path.join(__dirname, '../client/build/js')));
